@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hersteller/gore-wear", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images-globetrotter/gore-wear-r3-gore-windstopper-zip-off-hose-radhose-gore-wear-5637276942.jpg":"\u002Fassets\u002Fimages\u002Fgore-wear-r3-gore-windstopper-zip-off-hose-radhose-gore-wear-5637276942.webp"}}],fetch:{},mutations:void 0});

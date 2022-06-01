@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hersteller/exofficio", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images-globetrotter/exofficio-bugsaway-sandfly-pants-mueckenabweisende-kleidung-exofficio-5637270118.jpg":"\u002Fassets\u002Fimages\u002Fexofficio-bugsaway-sandfly-pants-mueckenabweisende-kleidung-exofficio-5637270118.webp"}}],fetch:{},mutations:void 0});
