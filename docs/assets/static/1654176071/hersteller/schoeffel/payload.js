@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hersteller/schoeffel", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images-globetrotter/schoeffel-pants-ascona-trekkinghose-schoeffel-5637721387.jpg":"\u002Fassets\u002Fimages\u002Fschoeffel-pants-ascona-trekkinghose-schoeffel-5637721387.webp"}}],fetch:{},mutations:void 0});
