@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hersteller/blackyak", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images-globetrotter/blackyak-cordura-trekking-shorts-trekkinghose-blackyak-5637243388.jpg":"\u002Fassets\u002Fimages\u002Fblackyak-cordura-trekking-shorts-trekkinghose-blackyak-5637243388.webp"}}],fetch:{},mutations:void 0});
