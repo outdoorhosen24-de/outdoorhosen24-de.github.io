@@ -1,0 +1,147 @@
+{
+    "domain": "outdoorhosen24.de",
+    "hostname": "https://www.outdoorhosen24.de",
+    "email": "mail@surrealnetworks.io",
+    "organization": "outdoorhosen24.de",
+    "logoText": "Outdoorhosen24.de",
+    "title": "Outdoorhosen für Damen und Herren",
+    "subline": "Der Outdoorhosen Shop für Damen und Herren",
+    "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
+    "imageFolder": "/assets/images/images-globetrotter/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5637247429",
+        "5637279947",
+        "5637929667"
+    ],
+    "winnerProducts": [
+        "5637247429",
+        "5637917314",
+        "5637738255"
+    ],
+    "featuredCategories": [
+        "Winterhosen",
+        "Sporthosen",
+        "Trekkinghosen",
+        "Reisehosen und Freizeithosen",
+        "Regenhosen und Hardshellhosen",
+        "Shorts"
+    ],
+    "socialMediaAccounts": [{
+        "name": "Twitter",
+        "link": "https://www.twitter.com/campingtoilette",
+        "iconClass": "fab fa-twitter",
+        "published": false
+    }],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Outdoorhosen",
+        "featureText": "<p class=\"mb-4\">Finde die perfekte OutdoorHose für jede Witterung</p><p>Wir bieten eine riesige Auswahl an Outdoorhosen für Damen, Herren und Kindern in verschiedenen Stilen und Farben. Egal welches Wetter, bei uns findest du die perfekte Hose für dein nächstes Abenteuer.</p><p>Alle Outdoorhosen in unserem Shop sind qualitativ hochwertig und werden auf folgende Kriterien geprüft:</p>",
+        "index": {
+            "title": "Outdoorhosen für Damen und Herren | Shop",
+            "metaDescription": "Outdoorhosen für Damen und Herren online kaufen in unserem Shop. Top Marken und beste Preise in unserem Outdoorhosen Shop. Best-Preis-Garantie. Finde die richtige Outdoorhose.",
+            "robots": "index, follow"
+        },
+        "shop": {
+            "title": "Alle Outdoorhosen und Marken im Überblick.",
+            "metaDescription": "Alle Outdoor Hosen und Marken im Überblick. Sortiert nach Kategorie. Best-Preis-Garantie. Jetzt die richtige Outdoorhose vergleichen und finden.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Marken für Outdoorhosen im Überblick",
+            "metaDescription": "Eine Auflistung aller Marken und Hersteller für Outdoorhosen im Überblick. Von Adidas bis Jack Wolfskin, hier findest du alle Hersteller.",
+            "robots": "index, follow"
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT online kaufen | Outdoorhosen Shop",
+        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
+        "defaultRobots": "noindex, follow",
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Outdoorhosen Shop",
+        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
+        "defaultRobots": "noindex, follow",
+        "categories": [{
+            "key": "sporthosen",
+            "slug": "sporthosen",
+            "name": "Sporthosen",
+            "seo": {
+                "title": "Sporthosen günstig kaufen",
+                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "brandSeo": {
+        "defaultTitle": "Produkte von $HERSTELLER | Outdoorhosen Shop",
+        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im Outdoor Shop. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
+        "defaultRobots": "noindex, follow",
+        "brands": [{
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "adidas",
+                "name": "Adidas",
+                "seo": {
+                    "title": "Produkte von Adidas günstig kaufen",
+                    "metaDescription": "Alle Produkte von Adidas im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "checklist": [
+        "Material",
+        "Atmungsaktivität",
+        "Wasserfestigkeit",
+        "Komfort",
+        "Extra Funktionen",
+        "Pflegbarkeit"
+    ],
+    "navigationLinks": [{
+            "title": "Home",
+            "linkTo": "/",
+            "linkTitle": "Outdoorhosen",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Outdoorhosen Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Outdoorhosen Marken"
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
+    ]
+}
