@@ -59,9 +59,9 @@
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT online kaufen | Outdoorhosen Shop",
-        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "$PRODUKT online bestellen | Outdoorhosen Shop",
+        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER für Damen und Herren in unserem Shop für Outdoorhosen bestellen. Der beste Preis im Netz. Sofort lieferbar.",
+        "defaultRobots": "index, follow",
         "products": [{
             "sku": "5637909794",
             "name": "Ortovox PALA PANTS Kletterhose",
@@ -74,8 +74,8 @@
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Outdoorhosen Shop",
-        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Besuche unseren Shop für Outdoorhosen und finde den besten Preis. $KATEGORIE Testsieger.",
+        "defaultRobots": "index, follow",
         "categories": [{
             "key": "sporthosen",
             "slug": "sporthosen",
@@ -88,9 +88,9 @@
         }]
     },
     "brandSeo": {
-        "defaultTitle": "Produkte von $HERSTELLER | Outdoorhosen Shop",
-        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im Outdoor Shop. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "Outdoorhosen von $HERSTELLER | Outdoorhosen Shop",
+        "defaultMetaDescription": "Alle Outdoorhosen von $HERSTELLER günstig in unserem Shop bestellen. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
+        "defaultRobots": "index, follow",
         "brands": [{
                 "key": "palm",
                 "name": "Palm",
