@@ -1,5 +1,5 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "outdoorhosen24.de",
     "hostname": "https://www.outdoorhosen24.de",
     "email": "mail@surrealnetworks.io",
@@ -32,12 +32,14 @@
         "Regenhosen und Hardshellhosen",
         "Shorts"
     ],
-    "socialMediaAccounts": [{
-        "name": "Twitter",
-        "link": "https://www.twitter.com/campingtoilette",
-        "iconClass": "fab fa-twitter",
-        "published": false
-    }],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/campingtoilette",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
@@ -69,36 +71,41 @@
         "defaultTitle": "$PRODUKT online bestellen | Outdoorhosen Shop",
         "defaultMetaDescription": "$PRODUKT vom $HERSTELLER für Damen und Herren in unserem Shop für Outdoorhosen bestellen. Der beste Preis im Netz. Sofort lieferbar.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Outdoorhosen Shop",
         "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Besuche unseren Shop für Outdoorhosen und finde den besten Preis. $KATEGORIE Testsieger.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow"
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "Outdoorhosen von $HERSTELLER | Outdoorhosen Shop",
         "defaultMetaDescription": "Alle Outdoorhosen von $HERSTELLER günstig in unserem Shop bestellen. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
         "defaultRobots": "index, follow",
-        "brands": [{
+        "brands": [
+            {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
@@ -126,7 +133,8 @@
         "Extra Funktionen",
         "Pflegbarkeit"
     ],
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Home",
             "linkTo": "/",
             "linkTitle": "Outdoorhosen",
