@@ -23,7 +23,7 @@
       </div>
     </div>
     <!-- because the seoData object differs from the main pages ones, we have to parse the seoData.seo object to get the seo data for this category. -->
-    <SeoText :seoData="seoData.seo" v-if="seoData && seoData.seo" />
+    <!-- <SeoText :seoData="seoData.seo" v-if="seoData && seoData.seo" /> -->
   </div>
 </template>
 
@@ -72,6 +72,7 @@ export default {
       .getProductsFromCategory(categoryData)
       .slice(0, config.numberMaximumProductsPerCategory);
     const seoData = db.seo.getSeoForCategoryFromSlug(slug);
+
     return {
       products: filteredProducts,
       categoryData,
