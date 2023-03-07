@@ -29,7 +29,7 @@
               class="btn btn-primary py-3 px-5"
               target="_blank"
               rel="nofollow noopener"
-              :href="product.shopLink"
+              :href="affiliation(product.shopLink)"
               >Bestellen</a
             >
           </div>
@@ -40,7 +40,7 @@
                 class="btn btn-primary py-3 px-5"
                 target="_blank"
                 rel="nofollow noopener"
-                :href="product.shopLink"
+                :href="affiliation(product.shopLink)"
                 style="display: block; width: 100%"
                 >{{ product.brand }} Online Shop</a
               >
@@ -67,6 +67,7 @@
 import config from "~/assets/data/config.json";
 import products from "~/assets/data/products.json";
 import db from "~/utils/database.js";
+import affiliate from "~/modules/affiliate.js";
 
 export default {
   name: "product",
@@ -132,6 +133,11 @@ export default {
       category,
       relevantProducts,
     };
+  },
+  methods: {
+    affiliation: function() {
+      return affiliate(this.product.shopLink, this.config)
+    }
   },
   jsonld() {
     return {

@@ -14,6 +14,13 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
+    "affiliatePartner": "globetrotter",
+    "affiliate": {
+        "globetrotter": {
+            "affiliateParameter": "utm_source",
+            "affiliateTag": "PTID13012985"
+        }
+    },
     "popularProducts": [
         "5637247429",
         "5637279947",
