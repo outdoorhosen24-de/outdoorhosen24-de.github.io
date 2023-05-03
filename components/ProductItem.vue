@@ -17,7 +17,7 @@
           ">
           <NuxtLink :to="`/produkt/${product.slug}/`" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
             style="border-radius: 30px 0 0 30px" :title="product.linkTitle">Testbericht</NuxtLink>
-          <a :href="affiliation(product.shopLink)" class="flex-shrink-0 btn btn-sm btn-primary px-3"
+          <a :href="product.shopLink" class="flex-shrink-0 btn btn-sm btn-primary px-3"
             style="border-radius: 0 30px 30px 0" target="_blank" rel="nofollow noopener">Bestellen</a>
         </div>
       </div>
@@ -51,7 +51,6 @@
 import config from "~/assets/data/config.json";
 import categories from "~/assets/data/categories.json";
 import brands from "~/assets/data/brands.json";
-import affiliate from "~/modules/affiliate.js";
 
 var he = require("he");
 
@@ -85,9 +84,6 @@ export default {
     decode: function decodeEntity(str) {
       return he.decode(str);
     },
-    affiliation: function() {
-      return affiliate(this.product.shopLink, this.config)
-    }
   },
 };
 </script>
