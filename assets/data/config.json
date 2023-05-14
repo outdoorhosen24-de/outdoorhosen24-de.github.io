@@ -1,252 +1,259 @@
 {
-  "configIsReady": true,
-  "domain": "outdoorhosen24.de",
-  "hostname": "https://www.outdoorhosen24.de",
-  "email": "mail@surrealnetworks.io",
-  "organization": "outdoorhosen24.de",
-  "logoText": "Outdoorhosen24.de",
-  "title": "Outdoorhosen für Damen und Herren",
-  "subline": "Der Outdoorhosen Shop für Damen und Herren",
-  "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
-  "imageFolder": "/assets/images/images-globetrotter/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "affiliatePartner": "globetrotter",
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  },
-  "popularProducts": [
-    "5637247429",
-    "5637279947",
-    "5637929667"
-  ],
-  "winnerProducts": [
-    "5637247429",
-    "5637917314",
-    "5637738255"
-  ],
-  "featuredCategories": [
-    "Winterhosen",
-    "Sporthosen",
-    "Trekkinghosen",
-    "Reisehosen und Freizeithosen",
-    "Regenhosen und Hardshellhosen",
-    "Shorts"
-  ],
-  "socialMediaAccounts": [
-    {
-      "name": "Twitter",
-      "link": "https://www.twitter.com/campingtoilette",
-      "iconClass": "fab fa-twitter",
-      "published": false
-    }
-  ],
-  "imageQuality": 90,
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Outdoorhosen",
-    "featureText": "<p class=\"mb-4\">Finde die perfekte OutdoorHose für jede Witterung</p><p>Wir bieten eine riesige Auswahl an Outdoorhosen für Damen, Herren und Kindern in verschiedenen Stilen und Farben. Egal welches Wetter, bei uns findest du die perfekte Hose für dein nächstes Abenteuer.</p><p>Alle Outdoorhosen in unserem Shop sind qualitativ hochwertig und werden auf folgende Kriterien geprüft:</p>",
-    "index": {
-      "title": "Outdoorhosen für Damen und Herren | Shop",
-      "metaDescription": "Outdoorhosen für Damen und Herren online kaufen in unserem Shop. Top Marken und beste Preise in unserem Outdoorhosen Shop. Best-Preis-Garantie. Finde die richtige Outdoorhose.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Outdoorhosen24",
-            "text": "Herzlich willkommen bei Outdoorhosen24, Ihrem Online-Shop für hochwertige Outdoorhosen. Unsere Mission ist es, Ihnen eine breite Auswahl an Outdoorbekleidung zu bieten, die Ihren Anforderungen und Bedürfnissen entspricht. Ob Sie auf der Suche nach Softshellhosen, Sporthosen, Trekkinghosen, Reise- und Freizeithosen, Shorts, Regen- und Hardshellhosen oder Winterhosen sind, bei uns finden Sie garantiert das passende Produkt.Unsere Produktkategorien sind so konzipiert, dass Sie schnell und einfach die Hose finden, die Sie benötigen. Wir bieten Ihnen eine große Auswahl an verschiedenen Farben, Größen und Marken, so dass Sie sicher die Hose finden, die am besten zu Ihnen passt.Alle unsere Hosen sind aus hochwertigen Materialien hergestellt und wurden sorgfältig ausgewählt, um Ihnen eine lange Lebensdauer und optimalen Tragekomfort zu garantieren. Unser Team hat jedes einzelne Produkt gründlich getestet, um sicherzustellen, dass es den höchsten Qualitätsstandards entspricht.Wir sind stolz darauf, Ihnen eine sichere und benutzerfreundliche Online-Shopping-Erfahrung zu bieten. Wenn Sie Fragen oder Anregungen haben, steht Ihnen unser Kundenservice jederzeit gerne zur Verfügung. Wir freuen uns, Sie bei Outdoorhosen24 begrüßen zu dürfen."
-          },
-          {
-            "title": "Softshellhosen",
-            "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/softshellhosen/\" title=\"Softshellhosen\">Softshellhosen</a> für jedes Abenteuer. Unsere Softshellhosen sind perfekt für alle, die draußen aktiv sein möchten. Ob bei Regen oder Sonnenschein, unsere Hosen halten Sie trocken und bequem. Wählen Sie aus einer Vielzahl von Größen und Farben, um Ihren Bedürfnissen und Stil gerecht zu werden. Verpassen Sie nicht die Chance, Ihre perfekte Softshellhose zu finden."
-          },
-          {
-            "title": "Sporthosen",
-            "text": "Finden Sie die perfekte Sporthose für Ihre Workouts. Unsere <a href=\"/kategorie/sporthosen/\" title=\"Sporthosen\">Sporthosen</a> sind aus hochwertigen Materialien gefertigt und bieten maximale Bewegungsfreiheit und Komfort. Ob für den Jogging, das Fitnessstudio oder für andere sportliche Aktivitäten, wir haben die perfekte Hose für Sie. Schauen Sie sich jetzt unsere große Auswahl an und finden Sie Ihre neue Lieblings-Sporthose."
-          },
-          {
-            "title": "Trekkinghosen",
-            "text": "Erkunden Sie die Natur mit unseren langlebigen <a href=\"/kategorie/trekkinghosen/\" title=\"Trekkinghosen\">Trekkinghosen</a>. Unsere Hosen sind aus robusten Materialien gefertigt und bieten Schutz vor den Elementen. Ob beim Wandern, Campen oder für andere Outdoor-Aktivitäten, unsere Trekkinghosen sind die perfekte Wahl. Entdecken Sie jetzt unsere große Auswahl an Größen und Farben und finden Sie die perfekte Hose für Ihre nächste Outdoor-Abenteuer."
-          },
-          {
-            "title": "Reisehosen und Freizeithosen",
-            "text": "Entdecken Sie bei uns die perfekte Hose für Ihre Freizeit- und Reisebedürfnisse. Unsere Reise- und Freizeithosen sind bequem und praktisch, perfekt für lange Flugreisen oder einen entspannten Tag im Freien. Wählen Sie aus einer Vielzahl von Größen und Farben, um Ihren Bedürfnissen gerecht zu werden. Verpassen Sie nicht die Chance, Ihre neue Lieblings-Reise- und Freizeithose zu finden."
-          },
-          {
-            "title": "Shorts",
-            "text": "Finden Sie bei uns die perfekte Hose für warme Tage. Unsere <a href=\"/kategorie/shorts/\" title=\"Shorts\">Shorts</a> sind aus hochwertigen Materialien gefertigt und bieten maximale Bewegungsfreiheit und Komfort. Ob für den Strand, den Park oder für andere Freizeitaktivitäten, wir haben die perfekte Short für Sie. Schauen Sie sich jetzt unsere große Auswahl an und finden Sie Ihre neue Lieblings-Short."
-          },
-          {
-            "title": "Regenhosen und Hardshellhosen",
-            "text": "Bleiben Sie bei jedem Wetter trocken mit unseren langlebigen Regen- und Hardshellhosen. Unsere Hosen sind aus robusten Materialien gefertigt und bieten Schutz vor Regen und Wind. Ob beim Wandern, Campen oder für andere Outdoor-Aktivitäten, unsere Regen- und Hardshellhosen sind die perfekte Wahl. Entdecken Sie jetzt unsere große Auswahl an Größen und Farben und finden Sie die perfekte Hose für Ihre nächste Outdoor-Abenteuer."
-          },
-          {
-            "title": "Winterhosen",
-            "text": "Bleiben Sie auch bei kalten Temperaturen warm und bequem mit unseren <a href=\"/kategorie/winterhosen/\" title=\"Winterhosen\">Winterhosen</a>. Unsere Winterhosen sind aus hochwertigen Materialien gefertigt und bieten Schutz vor Kälte und Nässe. Ob beim Skifahren, Wandern oder für andere Winteraktivitäten, unsere Winterhosen sind die perfekte Wahl. Entdecken Sie jetzt unsere große Auswahl an Größen und Farben und finden Sie die perfekte Hose für Ihre Winterabenteuer."
-          }
+    "configIsReady": true,
+    "domain": "outdoorhosen24.de",
+    "hostname": "https://www.outdoorhosen24.de",
+    "email": "mail@surrealnetworks.io",
+    "organization": "outdoorhosen24.de",
+    "logoText": "Outdoorhosen24.de",
+    "title": "Outdoorhosen für Damen und Herren",
+    "subline": "Der Outdoorhosen Shop für Damen und Herren",
+    "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
+    "imageFolder": "/assets/images/images-globetrotter/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "affiliatePartner": "globetrotter",
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+    },
+    "popularProducts": [
+        "5637247429",
+        "5637279947",
+        "5637929667"
+    ],
+    "winnerProducts": [
+        "5637247429",
+        "5637917314",
+        "5637738255"
+    ],
+    "featuredCategories": [
+        "Winterhosen",
+        "Sporthosen",
+        "Trekkinghosen",
+        "Reisehosen und Freizeithosen",
+        "Regenhosen und Hardshellhosen",
+        "Shorts"
+    ],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/campingtoilette",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Outdoorhosen",
+        "featureText": "<p class=\"mb-4\">Finde die perfekte OutdoorHose für jede Witterung</p><p>Wir bieten eine riesige Auswahl an Outdoorhosen für Damen, Herren und Kindern in verschiedenen Stilen und Farben. Egal welches Wetter, bei uns findest du die perfekte Hose für dein nächstes Abenteuer.</p><p>Alle Outdoorhosen in unserem Shop sind qualitativ hochwertig und werden auf folgende Kriterien geprüft:</p>",
+        "index": {
+            "title": "Outdoorhosen für Damen und Herren | Shop",
+            "metaDescription": "Outdoorhosen für Damen und Herren online kaufen in unserem Shop. Top Marken und beste Preise in unserem Outdoorhosen Shop. Best-Preis-Garantie. Finde die richtige Outdoorhose.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Outdoorhosen24",
+                        "text": "Herzlich willkommen bei Outdoorhosen24, Ihrem Online-Shop für hochwertige Outdoorhosen. Unsere Mission ist es, Ihnen eine breite Auswahl an Outdoorbekleidung zu bieten, die Ihren Anforderungen und Bedürfnissen entspricht. Ob Sie auf der Suche nach Softshellhosen, Sporthosen, Trekkinghosen, Reise- und Freizeithosen, Shorts, Regen- und Hardshellhosen oder Winterhosen sind, bei uns finden Sie garantiert das passende Produkt.Unsere Produktkategorien sind so konzipiert, dass Sie schnell und einfach die Hose finden, die Sie benötigen. Wir bieten Ihnen eine große Auswahl an verschiedenen Farben, Größen und Marken, so dass Sie sicher die Hose finden, die am besten zu Ihnen passt.Alle unsere Hosen sind aus hochwertigen Materialien hergestellt und wurden sorgfältig ausgewählt, um Ihnen eine lange Lebensdauer und optimalen Tragekomfort zu garantieren. Unser Team hat jedes einzelne Produkt gründlich getestet, um sicherzustellen, dass es den höchsten Qualitätsstandards entspricht.Wir sind stolz darauf, Ihnen eine sichere und benutzerfreundliche Online-Shopping-Erfahrung zu bieten. Wenn Sie Fragen oder Anregungen haben, steht Ihnen unser Kundenservice jederzeit gerne zur Verfügung. Wir freuen uns, Sie bei Outdoorhosen24 begrüßen zu dürfen."
+                    },
+                    {
+                        "title": "Softshellhosen",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/softshellhosen/\" title=\"Softshellhosen\">Softshellhosen</a> für jedes Abenteuer. Unsere Softshellhosen sind perfekt für alle, die draußen aktiv sein möchten. Ob bei Regen oder Sonnenschein, unsere Hosen halten Sie trocken und bequem. Wählen Sie aus einer Vielzahl von Größen und Farben, um Ihren Bedürfnissen und Stil gerecht zu werden. Verpassen Sie nicht die Chance, Ihre perfekte Softshellhose zu finden."
+                    },
+                    {
+                        "title": "Sporthosen",
+                        "text": "Finden Sie die perfekte Sporthose für Ihre Workouts. Unsere <a href=\"/kategorie/sporthosen/\" title=\"Sporthosen\">Sporthosen</a> sind aus hochwertigen Materialien gefertigt und bieten maximale Bewegungsfreiheit und Komfort. Ob für den Jogging, das Fitnessstudio oder für andere sportliche Aktivitäten, wir haben die perfekte Hose für Sie. Schauen Sie sich jetzt unsere große Auswahl an und finden Sie Ihre neue Lieblings-Sporthose."
+                    },
+                    {
+                        "title": "Trekkinghosen",
+                        "text": "Erkunden Sie die Natur mit unseren langlebigen <a href=\"/kategorie/trekkinghosen/\" title=\"Trekkinghosen\">Trekkinghosen</a>. Unsere Hosen sind aus robusten Materialien gefertigt und bieten Schutz vor den Elementen. Ob beim Wandern, Campen oder für andere Outdoor-Aktivitäten, unsere Trekkinghosen sind die perfekte Wahl. Entdecken Sie jetzt unsere große Auswahl an Größen und Farben und finden Sie die perfekte Hose für Ihre nächste Outdoor-Abenteuer."
+                    },
+                    {
+                        "title": "Reisehosen und Freizeithosen",
+                        "text": "Entdecken Sie bei uns die perfekte Hose für Ihre Freizeit- und Reisebedürfnisse. Unsere Reise- und Freizeithosen sind bequem und praktisch, perfekt für lange Flugreisen oder einen entspannten Tag im Freien. Wählen Sie aus einer Vielzahl von Größen und Farben, um Ihren Bedürfnissen gerecht zu werden. Verpassen Sie nicht die Chance, Ihre neue Lieblings-Reise- und Freizeithose zu finden."
+                    },
+                    {
+                        "title": "Shorts",
+                        "text": "Finden Sie bei uns die perfekte Hose für warme Tage. Unsere <a href=\"/kategorie/shorts/\" title=\"Shorts\">Shorts</a> sind aus hochwertigen Materialien gefertigt und bieten maximale Bewegungsfreiheit und Komfort. Ob für den Strand, den Park oder für andere Freizeitaktivitäten, wir haben die perfekte Short für Sie. Schauen Sie sich jetzt unsere große Auswahl an und finden Sie Ihre neue Lieblings-Short."
+                    },
+                    {
+                        "title": "Regenhosen und Hardshellhosen",
+                        "text": "Bleiben Sie bei jedem Wetter trocken mit unseren langlebigen Regen- und Hardshellhosen. Unsere Hosen sind aus robusten Materialien gefertigt und bieten Schutz vor Regen und Wind. Ob beim Wandern, Campen oder für andere Outdoor-Aktivitäten, unsere Regen- und Hardshellhosen sind die perfekte Wahl. Entdecken Sie jetzt unsere große Auswahl an Größen und Farben und finden Sie die perfekte Hose für Ihre nächste Outdoor-Abenteuer."
+                    },
+                    {
+                        "title": "Winterhosen",
+                        "text": "Bleiben Sie auch bei kalten Temperaturen warm und bequem mit unseren <a href=\"/kategorie/winterhosen/\" title=\"Winterhosen\">Winterhosen</a>. Unsere Winterhosen sind aus hochwertigen Materialien gefertigt und bieten Schutz vor Kälte und Nässe. Ob beim Skifahren, Wandern oder für andere Winteraktivitäten, unsere Winterhosen sind die perfekte Wahl. Entdecken Sie jetzt unsere große Auswahl an Größen und Farben und finden Sie die perfekte Hose für Ihre Winterabenteuer."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Alle Outdoorhosen und Marken im Überblick.",
+            "metaDescription": "Alle Outdoor Hosen und Marken im Überblick. Sortiert nach Kategorie. Best-Preis-Garantie. Jetzt die richtige Outdoorhose vergleichen und finden.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Marken für Outdoorhosen im Überblick",
+            "metaDescription": "Eine Auflistung aller Marken und Hersteller für Outdoorhosen im Überblick. Von Adidas bis Jack Wolfskin, hier findest du alle Hersteller.",
+            "robots": "index, follow"
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT online bestellen | Outdoorhosen Shop",
+        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER für Damen und Herren in unserem Shop für Outdoorhosen bestellen. Der beste Preis im Netz. Sofort lieferbar.",
+        "defaultRobots": "index, follow",
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "sku": "5637247429",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Palm Blaze Pant Neoprenbekleidung: Hervorragende Outdoorhose in Jet Grey",
+                            "text": "<p class=\"justify\">Die Palm Blaze Pant Neoprenbekleidung ist eine hochwertige Outdoorhose, die von der renommierten Marke Palm hergestellt wurde. Diese Neoprenhose besticht durch ihre erstklassige Qualität und optimalen Tragekomfort. Mit der SKU 5637247429 bietet sie sich optimal für den vielseitigen Einsatz im Outdoor-Bereich an.</p><p class=\"justify\">Die Hose ist in der attraktiven Farbe Jet Grey erhältlich, die nicht nur modisch ansprechend, sondern auch schmutzunempfindlich ist. Sie gehört zu verschiedenen Kategorien wie Outdoor-Bekleidung, Outdoorhosen, Sporthosen und Blaze Pant. Dies unterstreicht ihre Vielseitigkeit und macht sie zur perfekten Wahl für alle, die gern aktiv in der Natur unterwegs sind. Die Neoprenbekleidung ist bekannt für ihre Wasserbeständigkeit und Wärmeisolierung und wird daher in vielen Wassersportarten wie Kanufahren, Rafting, Stand-up-Paddling und Segeln eingesetzt.</p><p class=\"justify\">Eines der beeindruckendsten Merkmale der Palm Blaze Pant Neoprenbekleidung ist der äußerst positive Eindruck, den sie bei Käufern hinterlässt. Mit 391 Bewertungen und durchschnittlich 5 Sternen spricht dies für die herausragende Qualität und Zufriedenheit der Kunden. Die Hose überzeugt darüber hinaus mit ihrem angemessenen Preis von 119,95 Euro,</p><p class=\"justify\">Egal, ob Sie auf der Suche nach einer hochwertigen Neoprenhose für Ihren nächsten Outdoor-Abenteuer sind oder Ihre Ausrüstung für Wassersportaktivitäten aufstocken möchten, die Palm Blaze Pant Neoprenbekleidung in Jet Grey ist die ideale Lösung für Sie. Zögern Sie nicht und greifen Sie zu, um in den Genuss dieser erstklassigen Outdoorhose zu kommen und Ihre Outdoor-Aktivitäten auf ein neues Level zu bringen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637917314",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Adidas TERREX AGRAVIC TRAIL RUNNING SHORTS Trainingshose",
+                            "text": "<p class=\"justify\">Die Adidas TERREX AGRAVIC TRAIL RUNNING SHORTS Trainingshose (5637917314) ist eine hochwertige Outdoorhose der Marke Adidas in der Farbe Altamb. Diese Trainingshose ist ideal für Damen, die gerne Outdoor-Aktivitäten wie Trailrunning, Wandern oder andere Sportarten in der freien Natur unternehmen. Die TERREX AGRAVIC TRAIL RUNNING SHORTS sind Teil der Adidas Outdoor-Bekleidung und in verschiedenen Kategorien wie Outdoorhosen, Shorts und TERREX AGRAVIC TRAIL RUNNING SHORTS zu finden.</p><p class=\"justify\">Die Trainingshose zeichnet sich durch ihre hervorragende Passform, den bequemen Sitz und die Bewegungsfreiheit aus. Das Material der Adidas TERREX AGRAVIC TRAIL RUNNING SHORTS besteht aus einem hochwertigen, atmungsaktiven Stoff, der schnelltrocknend ist und somit für optimale Leistungsfähigkeit bei allen Wetterbedingungen sorgt. Ein weiteres Merkmal dieser Trainingshose ist das stylische Design, das dem Träger ein sportliches und modernes Aussehen verleiht.</p><p class=\"justify\">Mit der Adidas TERREX AGRAVIC TRAIL RUNNING SHORTS Trainingshose erhalten Damen eine bequeme und leistungsfähige Outdoorhose, die sich perfekt für anspruchsvolle Aktivitäten eignet. Die Trainingshose ist in verschiedenen Größen erhältlich und bietet somit eine optimale Passform für jeden Körpertyp. Der Preis von 64,95 Euro spiegelt die erstklassige Qualität und Verarbeitung dieser Hose wider.</p><p class=\"justify\">Dank der hohen Anzahl von 206 Bewertungen und einer Durchschnittsbewertung von 5 Sternen ist klar, dass diese Trainingshose von Adidas bei vielen Kunden sehr beliebt ist. Wer auf der Suche nach einer zuverlässigen, bequemen und modischen Trainingshose für Outdoor-Aktivitäten ist, sollte die Adidas TERREX AGRAVIC TRAIL RUNNING SHORTS Trainingshose in Erwägung ziehen. Mit dieser Hose sind sportliche Abenteuer in der Natur garantiert ein Vergnügen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637738255",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "The North Face M Anticline Cargo-Shorts: Vielseitige und bequeme Shorts",
+                            "text": "<p class=\"justify\">Die M Anticline Cargo-Shorts von The North Face sind die idealen Begleiter für Outdoor- und Freizeitaktivitäten. Mit ihrem stilvollen Design in British Khaki und der hohen Funktionalität sind sie perfekt für alle, die Wert auf Qualität und Performance legen.</p><p class=\"justify\">Die M Anticline Cargo-Shorts überzeugen durch ihre Vielseitigkeit. Sie eignen sich gleichermaßen für Wanderungen, Radtouren oder entspannte Tage in der Stadt. Die Shorts bestehen aus einem strapazierfähigen Material, das neben Komfort und Atmungsaktivität auch einen hervorragenden Schutz vor den Elementen bietet.</p><p class=\"justify\">Die Marke The North Face steht seit Jahren für qualitativ hochwertige Outdoor-Bekleidung. Mit der Kombination aus modernem Design und Funktionalität ist die M Anticline Cargo-Shorts ein weiteres Paradebeispiel dafür. Die großzügige Anzahl an praktischen Taschen bietet ausreichend Platz, um wichtige Gegenstände und Utensilien stets griffbereit zu haben. Ebenso überzeugt der verstellbare Bund dieser Shorts, der einen bequemen Sitz garantiert.</p><p class=\"justify\">Zu den weiteren Highlights der M Anticline Cargo-Shorts gehört die herausragende Bewertung von fünf Sternen bei einer großen Anzahl an Kundenrezensionen. Dies spricht nicht nur für die Qualität dieser Shorts, sondern auch für das Vertrauen, das viele Outdoor-Enthusiasten in die Marke The North Face setzen.</p><p class=\"justify\">Zusammenfassend bieten die M Anticline Cargo-Shorts von The North Face einen hohen Tragekomfort, vielseitige Einsatzmöglichkeiten und ein ansprechendes Design. Somit sind sie die perfekte Wahl für alle, die auf der Suche nach einer hochwertigen und funktionalen Shorts für ihre Outdoor-Abenteuer sind.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637282532",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "FRILUFTS RAZNAS PANTS Trekkinghose",
+                            "text": "<p class=\"justify\">Die FRILUFTS RAZNAS PANTS Trekkinghose ist eine hochwertige und funktionelle Hose für Herren, die ideal für Outdoor-Abenteuer und Trekking-Touren geeignet ist. Hergestellt von der renommierten Marke FRILUFTS, steht dieses Produkt für Qualität und Langlebigkeit.</p><p class=\"justify\">Die RAZNAS PANTS Trekkinghose kommt in der attraktiven Farbe Black Forest und ist in verschiedenen Größen erhältlich. Sie ist aus einem robusten Material hergestellt, das nicht nur langlebig, sondern auch äußerst bequem ist. Die Hose bietet hervorragenden Schutz vor den Elementen und sorgt gleichzeitig für optimale Bewegungsfreiheit, damit Ihr Outdoor-Erlebnis so angenehm wie möglich ist.</p><p class=\"justify\">Die FRILUFTS RAZNAS PANTS Trekkinghose gehört zu den Top-Produkten in der Kategorie Outdoor-Bekleidung und ist Teil der Outdoorhosen- und Trekkinghosen-Kollektionen. Dieses Modell hat einen Preis von 119,95 €, was angesichts der hohen Qualität und der hervorragenden Eigenschaften ein ausgezeichnetes Preis-Leistungs-Verhältnis darstellt.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 5 Sternen und 76 Rezensionen können Sie sicher sein, dass Sie mit der FRILUFTS RAZNAS PANTS Trekkinghose eine erstklassige Wahl treffen. Die zahlreichen zufriedenen Kunden sprechen für die Zufriedenheit und das Vertrauen in dieses Produkt. Wenn Sie auf der Suche nach der perfekten Trekkinghose sind, dann ist dieses Modell von FRILUFTS genau das Richtige für Sie.</p><p class=\"justify\">Insgesamt ist die FRILUFTS RAZNAS PANTS Trekkinghose eine hervorragende Ergänzung für Ihre Outdoor-Ausrüstung und bietet alles, was Sie von einer zuverlässigen und bequemen Trekkinghose erwarten können. Mit dieser Hose an Ihrer Seite sind Sie bereit, jedes Abenteuer in der Natur zu meistern und unterwegs bestens geschützt und komfortabel zu sein.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637457049",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "FRILUFTS OCOA ZIPOFF PANTS Trekkinghose: Die perfekte Outdoorhose",
+                            "text": "<p class=\"justify\">Die FRILUFTS OCOA ZIPOFF PANTS Trekkinghose ist die ideale Wahl für all jene, die bei ihren Outdoor-Abenteuern auf der Suche nach einer vielseitigen, bequemen und robusten Hose sind. Mit einer beeindruckenden Anzahl von 175 Bewertungen und einer 5-Sterne-Bewertung steht diese Hose für höchste Qualität und Kundenzufriedenheit.</p><p class=\"justify\">Die OCOA ZIPOFF PANTS bestechen durch ihr stilvolles Design in der Farbe Molten Lava. FRILUFTS, eine renommierte Marke im Bereich Outdoor-Bekleidung, hat eine Hose entwickelt, die sowohl funktional als auch ästhetisch ansprechend ist. Diese vielseitige Trekkinghose ist in zahlreichen Kategorien aufgeführt, darunter Herren, Outdoor-Bekleidung, Outdoorhosen und Trekkinghosen, sodass sie in jeder Outdoorsituation ihren Zweck erfüllt.</p><p class=\"justify\">Der innovative Reißverschluss an den Oberschenkeln ermöglicht es, die Hose schnell und einfach in eine Shorts umzuwandeln. Diese Funktionalität ist besonders praktisch für Wanderungen und Trekkingtouren, bei denen das Wetter schnell wechseln kann. Die OCOA ZIPOFF PANTS bieten durch das flexible Material und den sorgfältig entwickelten Schnitt maximale Bewegungsfreiheit – ein Muss für anspruchsvolle Outdoor-Aktivitäten. Zudem verfügt die Hose über mehrere Taschen, die ausreichend Stauraum für wichtige Utensilien bieten.</p><p class=\"justify\">Mit einem Preis von 89,95 Euro ist die FRILUFTS OCOA ZIPOFF PANTS Trekkinghose eine Investition in langlebige, hochwertige Outdoor-Bekleidung. Wer auf der Suche nach einer All-in-One-Lösung für verschiedene Outdoor-Aktivitäten ist, trifft mit dieser Hose die richtige Wahl. Überzeugen Sie sich selbst von der erstklassigen Qualität und Funktionalität der FRILUFTS OCOA ZIPOFF PANTS Trekkinghose und machen Sie Ihre nächste Outdoor-Expedition zu einem unvergesslichen Erlebnis.</p>"
+                        }
+                    ]
+                }
+            }
         ]
-      }
     },
-    "shop": {
-      "title": "Alle Outdoorhosen und Marken im Überblick.",
-      "metaDescription": "Alle Outdoor Hosen und Marken im Überblick. Sortiert nach Kategorie. Best-Preis-Garantie. Jetzt die richtige Outdoorhose vergleichen und finden.",
-      "robots": "index, follow"
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Outdoorhosen Shop",
+        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Besuche unseren Shop für Outdoorhosen und finde den besten Preis. $KATEGORIE Testsieger.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
     },
-    "hersteller": {
-      "title": "Alle Marken für Outdoorhosen im Überblick",
-      "metaDescription": "Eine Auflistung aller Marken und Hersteller für Outdoorhosen im Überblick. Von Adidas bis Jack Wolfskin, hier findest du alle Hersteller.",
-      "robots": "index, follow"
+    "brandSeo": {
+        "defaultTitle": "Outdoorhosen von $HERSTELLER | Outdoorhosen Shop",
+        "defaultMetaDescription": "Alle Outdoorhosen von $HERSTELLER günstig in unserem Shop bestellen. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "adidas",
+                "name": "Adidas",
+                "seo": {
+                    "title": "Produkte von Adidas günstig kaufen",
+                    "metaDescription": "Alle Produkte von Adidas im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "checklist": [
+        "Material",
+        "Atmungsaktivität",
+        "Wasserfestigkeit",
+        "Komfort",
+        "Extra Funktionen",
+        "Pflegbarkeit"
+    ],
+    "navigationLinks": [
+        {
+            "title": "Home",
+            "linkTo": "/",
+            "linkTitle": "Outdoorhosen",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Outdoorhosen Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Outdoorhosen Marken"
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
+    ],
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT online bestellen | Outdoorhosen Shop",
-    "defaultMetaDescription": "$PRODUKT vom $HERSTELLER für Damen und Herren in unserem Shop für Outdoorhosen bestellen. Der beste Preis im Netz. Sofort lieferbar.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5637247429",
-        "seo": {
-          "texts": [
-            {
-              "title": "Palm Blaze Pant Neoprenbekleidung: Hervorragende Outdoorhose in Jet Grey",
-              "text": "<p class=\"justify\">Die Palm Blaze Pant Neoprenbekleidung ist eine hochwertige Outdoorhose, die von der renommierten Marke Palm hergestellt wurde. Diese Neoprenhose besticht durch ihre erstklassige Qualität und optimalen Tragekomfort. Mit der SKU 5637247429 bietet sie sich optimal für den vielseitigen Einsatz im Outdoor-Bereich an.</p><p class=\"justify\">Die Hose ist in der attraktiven Farbe Jet Grey erhältlich, die nicht nur modisch ansprechend, sondern auch schmutzunempfindlich ist. Sie gehört zu verschiedenen Kategorien wie Outdoor-Bekleidung, Outdoorhosen, Sporthosen und Blaze Pant. Dies unterstreicht ihre Vielseitigkeit und macht sie zur perfekten Wahl für alle, die gern aktiv in der Natur unterwegs sind. Die Neoprenbekleidung ist bekannt für ihre Wasserbeständigkeit und Wärmeisolierung und wird daher in vielen Wassersportarten wie Kanufahren, Rafting, Stand-up-Paddling und Segeln eingesetzt.</p><p class=\"justify\">Eines der beeindruckendsten Merkmale der Palm Blaze Pant Neoprenbekleidung ist der äußerst positive Eindruck, den sie bei Käufern hinterlässt. Mit 391 Bewertungen und durchschnittlich 5 Sternen spricht dies für die herausragende Qualität und Zufriedenheit der Kunden. Die Hose überzeugt darüber hinaus mit ihrem angemessenen Preis von 119,95 Euro,</p><p class=\"justify\">Egal, ob Sie auf der Suche nach einer hochwertigen Neoprenhose für Ihren nächsten Outdoor-Abenteuer sind oder Ihre Ausrüstung für Wassersportaktivitäten aufstocken möchten, die Palm Blaze Pant Neoprenbekleidung in Jet Grey ist die ideale Lösung für Sie. Zögern Sie nicht und greifen Sie zu, um in den Genuss dieser erstklassigen Outdoorhose zu kommen und Ihre Outdoor-Aktivitäten auf ein neues Level zu bringen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637917314",
-        "seo": {
-          "texts": [
-            {
-              "title": "Adidas TERREX AGRAVIC TRAIL RUNNING SHORTS Trainingshose",
-              "text": "<p class=\"justify\">Die Adidas TERREX AGRAVIC TRAIL RUNNING SHORTS Trainingshose (5637917314) ist eine hochwertige Outdoorhose der Marke Adidas in der Farbe Altamb. Diese Trainingshose ist ideal für Damen, die gerne Outdoor-Aktivitäten wie Trailrunning, Wandern oder andere Sportarten in der freien Natur unternehmen. Die TERREX AGRAVIC TRAIL RUNNING SHORTS sind Teil der Adidas Outdoor-Bekleidung und in verschiedenen Kategorien wie Outdoorhosen, Shorts und TERREX AGRAVIC TRAIL RUNNING SHORTS zu finden.</p><p class=\"justify\">Die Trainingshose zeichnet sich durch ihre hervorragende Passform, den bequemen Sitz und die Bewegungsfreiheit aus. Das Material der Adidas TERREX AGRAVIC TRAIL RUNNING SHORTS besteht aus einem hochwertigen, atmungsaktiven Stoff, der schnelltrocknend ist und somit für optimale Leistungsfähigkeit bei allen Wetterbedingungen sorgt. Ein weiteres Merkmal dieser Trainingshose ist das stylische Design, das dem Träger ein sportliches und modernes Aussehen verleiht.</p><p class=\"justify\">Mit der Adidas TERREX AGRAVIC TRAIL RUNNING SHORTS Trainingshose erhalten Damen eine bequeme und leistungsfähige Outdoorhose, die sich perfekt für anspruchsvolle Aktivitäten eignet. Die Trainingshose ist in verschiedenen Größen erhältlich und bietet somit eine optimale Passform für jeden Körpertyp. Der Preis von 64,95 Euro spiegelt die erstklassige Qualität und Verarbeitung dieser Hose wider.</p><p class=\"justify\">Dank der hohen Anzahl von 206 Bewertungen und einer Durchschnittsbewertung von 5 Sternen ist klar, dass diese Trainingshose von Adidas bei vielen Kunden sehr beliebt ist. Wer auf der Suche nach einer zuverlässigen, bequemen und modischen Trainingshose für Outdoor-Aktivitäten ist, sollte die Adidas TERREX AGRAVIC TRAIL RUNNING SHORTS Trainingshose in Erwägung ziehen. Mit dieser Hose sind sportliche Abenteuer in der Natur garantiert ein Vergnügen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637738255",
-        "seo": {
-          "texts": [
-            {
-              "title": "The North Face M Anticline Cargo-Shorts: Vielseitige und bequeme Shorts",
-              "text": "<p class=\"justify\">Die M Anticline Cargo-Shorts von The North Face sind die idealen Begleiter für Outdoor- und Freizeitaktivitäten. Mit ihrem stilvollen Design in British Khaki und der hohen Funktionalität sind sie perfekt für alle, die Wert auf Qualität und Performance legen.</p><p class=\"justify\">Die M Anticline Cargo-Shorts überzeugen durch ihre Vielseitigkeit. Sie eignen sich gleichermaßen für Wanderungen, Radtouren oder entspannte Tage in der Stadt. Die Shorts bestehen aus einem strapazierfähigen Material, das neben Komfort und Atmungsaktivität auch einen hervorragenden Schutz vor den Elementen bietet.</p><p class=\"justify\">Die Marke The North Face steht seit Jahren für qualitativ hochwertige Outdoor-Bekleidung. Mit der Kombination aus modernem Design und Funktionalität ist die M Anticline Cargo-Shorts ein weiteres Paradebeispiel dafür. Die großzügige Anzahl an praktischen Taschen bietet ausreichend Platz, um wichtige Gegenstände und Utensilien stets griffbereit zu haben. Ebenso überzeugt der verstellbare Bund dieser Shorts, der einen bequemen Sitz garantiert.</p><p class=\"justify\">Zu den weiteren Highlights der M Anticline Cargo-Shorts gehört die herausragende Bewertung von fünf Sternen bei einer großen Anzahl an Kundenrezensionen. Dies spricht nicht nur für die Qualität dieser Shorts, sondern auch für das Vertrauen, das viele Outdoor-Enthusiasten in die Marke The North Face setzen.</p><p class=\"justify\">Zusammenfassend bieten die M Anticline Cargo-Shorts von The North Face einen hohen Tragekomfort, vielseitige Einsatzmöglichkeiten und ein ansprechendes Design. Somit sind sie die perfekte Wahl für alle, die auf der Suche nach einer hochwertigen und funktionalen Shorts für ihre Outdoor-Abenteuer sind.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637282532",
-        "seo": {
-          "texts": [
-            {
-              "title": "FRILUFTS RAZNAS PANTS Trekkinghose",
-              "text": "<p class=\"justify\">Die FRILUFTS RAZNAS PANTS Trekkinghose ist eine hochwertige und funktionelle Hose für Herren, die ideal für Outdoor-Abenteuer und Trekking-Touren geeignet ist. Hergestellt von der renommierten Marke FRILUFTS, steht dieses Produkt für Qualität und Langlebigkeit.</p><p class=\"justify\">Die RAZNAS PANTS Trekkinghose kommt in der attraktiven Farbe Black Forest und ist in verschiedenen Größen erhältlich. Sie ist aus einem robusten Material hergestellt, das nicht nur langlebig, sondern auch äußerst bequem ist. Die Hose bietet hervorragenden Schutz vor den Elementen und sorgt gleichzeitig für optimale Bewegungsfreiheit, damit Ihr Outdoor-Erlebnis so angenehm wie möglich ist.</p><p class=\"justify\">Die FRILUFTS RAZNAS PANTS Trekkinghose gehört zu den Top-Produkten in der Kategorie Outdoor-Bekleidung und ist Teil der Outdoorhosen- und Trekkinghosen-Kollektionen. Dieses Modell hat einen Preis von 119,95 €, was angesichts der hohen Qualität und der hervorragenden Eigenschaften ein ausgezeichnetes Preis-Leistungs-Verhältnis darstellt.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 5 Sternen und 76 Rezensionen können Sie sicher sein, dass Sie mit der FRILUFTS RAZNAS PANTS Trekkinghose eine erstklassige Wahl treffen. Die zahlreichen zufriedenen Kunden sprechen für die Zufriedenheit und das Vertrauen in dieses Produkt. Wenn Sie auf der Suche nach der perfekten Trekkinghose sind, dann ist dieses Modell von FRILUFTS genau das Richtige für Sie.</p><p class=\"justify\">Insgesamt ist die FRILUFTS RAZNAS PANTS Trekkinghose eine hervorragende Ergänzung für Ihre Outdoor-Ausrüstung und bietet alles, was Sie von einer zuverlässigen und bequemen Trekkinghose erwarten können. Mit dieser Hose an Ihrer Seite sind Sie bereit, jedes Abenteuer in der Natur zu meistern und unterwegs bestens geschützt und komfortabel zu sein.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637457049",
-        "seo": {
-          "texts": [
-            {
-              "title": "FRILUFTS OCOA ZIPOFF PANTS Trekkinghose: Die perfekte Outdoorhose",
-              "text": "<p class=\"justify\">Die FRILUFTS OCOA ZIPOFF PANTS Trekkinghose ist die ideale Wahl für all jene, die bei ihren Outdoor-Abenteuern auf der Suche nach einer vielseitigen, bequemen und robusten Hose sind. Mit einer beeindruckenden Anzahl von 175 Bewertungen und einer 5-Sterne-Bewertung steht diese Hose für höchste Qualität und Kundenzufriedenheit.</p><p class=\"justify\">Die OCOA ZIPOFF PANTS bestechen durch ihr stilvolles Design in der Farbe Molten Lava. FRILUFTS, eine renommierte Marke im Bereich Outdoor-Bekleidung, hat eine Hose entwickelt, die sowohl funktional als auch ästhetisch ansprechend ist. Diese vielseitige Trekkinghose ist in zahlreichen Kategorien aufgeführt, darunter Herren, Outdoor-Bekleidung, Outdoorhosen und Trekkinghosen, sodass sie in jeder Outdoorsituation ihren Zweck erfüllt.</p><p class=\"justify\">Der innovative Reißverschluss an den Oberschenkeln ermöglicht es, die Hose schnell und einfach in eine Shorts umzuwandeln. Diese Funktionalität ist besonders praktisch für Wanderungen und Trekkingtouren, bei denen das Wetter schnell wechseln kann. Die OCOA ZIPOFF PANTS bieten durch das flexible Material und den sorgfältig entwickelten Schnitt maximale Bewegungsfreiheit – ein Muss für anspruchsvolle Outdoor-Aktivitäten. Zudem verfügt die Hose über mehrere Taschen, die ausreichend Stauraum für wichtige Utensilien bieten.</p><p class=\"justify\">Mit einem Preis von 89,95 Euro ist die FRILUFTS OCOA ZIPOFF PANTS Trekkinghose eine Investition in langlebige, hochwertige Outdoor-Bekleidung. Wer auf der Suche nach einer All-in-One-Lösung für verschiedene Outdoor-Aktivitäten ist, trifft mit dieser Hose die richtige Wahl. Überzeugen Sie sich selbst von der erstklassigen Qualität und Funktionalität der FRILUFTS OCOA ZIPOFF PANTS Trekkinghose und machen Sie Ihre nächste Outdoor-Expedition zu einem unvergesslichen Erlebnis.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Outdoorhosen Shop",
-    "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Besuche unseren Shop für Outdoorhosen und finde den besten Preis. $KATEGORIE Testsieger.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Outdoorhosen von $HERSTELLER | Outdoorhosen Shop",
-    "defaultMetaDescription": "Alle Outdoorhosen von $HERSTELLER günstig in unserem Shop bestellen. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "key": "adidas",
-        "name": "Adidas",
-        "seo": {
-          "title": "Produkte von Adidas günstig kaufen",
-          "metaDescription": "Alle Produkte von Adidas im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "checklist": [
-    "Material",
-    "Atmungsaktivität",
-    "Wasserfestigkeit",
-    "Komfort",
-    "Extra Funktionen",
-    "Pflegbarkeit"
-  ],
-  "navigationLinks": [
-    {
-      "title": "Home",
-      "linkTo": "/",
-      "linkTitle": "Outdoorhosen",
-      "publish": true
-    },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Outdoorhosen Shop",
-      "publish": true
-    },
-    {
-      "title": "Marken",
-      "publish": true,
-      "linkTo": "/marken/",
-      "linkTitle": "Outdoorhosen Marken"
-    },
-    {
-      "title": "Kontakt",
-      "linkTitle": "Kontakt aufnehmen",
-      "linkTo": "#kontakt",
-      "publish": false
-    }
-  ]
 }
